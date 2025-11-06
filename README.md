@@ -6,6 +6,12 @@
  Software Developer in the making | Learning to build useful things with Python
 
 ---
+## 📊 GitHub Stats
+
+![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyanshrastogi\&show_icons=true\&theme=radical)
+
+
+---
 
 ##  About Me
 
@@ -36,11 +42,6 @@ Here are a few things I’ve been working on recently:
 
 ---
 
-## 📊 GitHub Stats
-
-![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyanshrastogi\&show_icons=true\&theme=radical)
-
----
 
 ## 🔗 Connect with Me
 
