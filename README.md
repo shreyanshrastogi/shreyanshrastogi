@@ -1,59 +1,143 @@
+<div align="center">
+
+# 👋 Hey, I'm Shreyansh Rastogi
+
+### Aspiring SOC Analyst | Cybersecurity Enthusiast | BTech IT @ DIT University
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-rastogi-9235641ab/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shreyansh_rast)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HTB](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://academy.hackthebox.com)
+
+</div>
 
 ---
 
-#  Hey, I'm Shreyansh Rastogi
+## 🎯 About Me
 
- Software Developer in the making | Learning to build useful things with Python
+- 🔐 Final-year **B.Tech Information Technology** student at DIT University, Dehradun (CGPA: 7.65)
+- 🛡️ Actively building toward a career in **Security Operations (SOC)**
+- 🖥️ Currently completing **HTB Academy SOC Analyst Prerequisites Path**
+- 🐧 Hands-on with **Kali Linux**, OpenVPN, and live HTB lab environments
+- 📜 Pursuing **CompTIA Security+** — Target: December 2026
+- 🐍 Background in **Python** (Beginner–Intermediate)
 
 ---
+
+## 🛠️ Technical Skills
+
+**Security & Networking**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white)
+
+**Core Knowledge**
+- 🌐 Networking: TCP/IP, OSI Model, DNS, HTTP/S, FTP, SSH
+- 🔒 Security Concepts: CIA Triad, IDS/IPS, Incident Response, Threat Analysis
+- 🐧 Linux: Terminal navigation, file permissions, process management, log analysis
+- 🛡️ Frameworks: MITRE ATT&CK (learning), NIST (learning)
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📚 Current Learning Path — SOC Analyst 2027
+
+```
+Phase 1 — Foundations          [▓▓▓░░░░░░░] In Progress
+├── HTB Academy Linux Fundamentals
+├── HTB Academy SOC Prerequisites Path
+└── Networking Fundamentals
+
+Phase 2 — Core SOC Skills      [░░░░░░░░░░] Upcoming
+├── HTB Academy SOC Analyst Path
+├── Splunk Fundamentals 1 & 2
+└── MITRE ATT&CK Framework
+
+Phase 3 — Hands-On Practice    [░░░░░░░░░░] Upcoming
+├── Home Lab (Kali + Wazuh SIEM)
+├── LetsDefend.io SOC Simulation
+└── CyberDefenders Challenges
+
+Phase 4 — Certification        [░░░░░░░░░░] Target: Dec 2026
+└── CompTIA Security+
+
+Phase 5 — Job Applications     [░░░░░░░░░░] Target: 2027
+└── SOC Analyst L1 Roles
+```
+
+---
+
+## 🔬 Projects & Labs
+
+### 🛡️ Cybersecurity
+
+**Active Defence & Infrastructure Lab**
+> Personal cybersecurity lab running Kali Linux on VMware Workstation
+> - Configured OpenVPN tunnel to connect to HTB Academy live lab environments
+> - Practicing Linux administration, network analysis, and security tooling
+> - Documenting findings and writeups as learning progresses
+
+**HTB Academy — SOC Analyst Prerequisites Path** *(In Progress)*
+> Structured modules covering Linux, networking, Windows, scripting, and security fundamentals through guided hands-on lab environments
+
+---
+
+### 🐍 Python Projects
+
+| Project | Description |
+|---|---|
+| [Secret Message Encoder](https://github.com/shreyanshrastogi/secret-message-encoder) | Caesar & Vigenère cipher implementation — encode and decode hidden messages |
+| [To-Do Task Manager](https://github.com/shreyanshrastogi/To-Do-Task-Manager) | CLI task manager built with Python |
+| [Python Backend Training](https://github.com/shreyanshrastogi/Python_backend_training) | FastAPI, OOP, repository pattern, SQL — backend development practice |
+| [Python Practice with Projects](https://github.com/shreyanshrastogi/Python_practice_with_project) | Structured Python learning journey with projects |
+
+---
+
+## 📜 Certifications
+
+| Certification | Status | Provider |
+|---|---|---|
+| CompTIA Security+ | 🔄 In Progress — Target Dec 2026 | CompTIA |
+| HTB Academy SOC Analyst Path | 🔄 In Progress | HackTheBox |
+| TryHackMe — Offensive Security Intro | ✅ Completed | TryHackMe |
+| TryHackMe — Defensive Security Intro | ✅ Completed | TryHackMe |
+| TryHackMe — Search Skills | ✅ Completed | TryHackMe |
+
+---
+
 ## 📊 GitHub Stats
 
-![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyanshrastogi\&show_icons=true\&theme=radical)
+<div align="center">
 
+![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyanshrastogi&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshrastogi&layout=compact&theme=tokyonight&hide_border=true)
 
-##  About Me
-
-*  Currently focused on **Python backend development**
-*  Learning **FastAPI, SQL, and Git** as part of my 8-month roadmap
-*  Curious about **Cloud and DevOps tools** (Azure, CI/CD)
-*  Goal: Land a **Python Backend Internship** by 2025
+</div>
 
 ---
 
-##  Tech Stack
+## 📬 Connect With Me
 
-**Languages:** Python, SQL, HTML/CSS
-**Frameworks:** FastAPI (learning), Flask (basics)
-**Tools:** Git, GitHub, VS Code
-**Cloud:** Azure (beginner)
-
----
-
-##  Projects
-
-Here are a few things I’ve been working on recently:
-
-* 📝 [**To-Do Task Manager**](https://github.com/shreyanshrastogi/To-Do-Task-Manager) – Simple CLI app to add, view, and remove tasks.
-* 🔐 [**Secret Message Encoder**](https://github.com/shreyanshrastogi/secret-message-encoder) – Encode and decode hidden text messages.
-* 📘 [**Python Practice with Projects**](https://github.com/shreyanshrastogi/Python_practice_with_project) – My 100-day Python learning journey.
-* 🍲 [**Odin HTML Recipe**](https://github.com/shreyanshrastogi/odin-html-recipe) – A small project built while learning HTML basics.
+- 💼 [LinkedIn](https://www.linkedin.com/in/shreyansh-rastogi-9235641ab/)
+- 🐦 [X / Twitter](https://twitter.com/shreyansh_rast)
+- 🎯 [HackTheBox Academy](https://academy.hackthebox.com)
+- 💻 [TryHackMe](https://tryhackme.com)
 
 ---
 
+<div align="center">
 
-## 🔗 Connect with Me
+*"The quieter you become, the more you are able to hear." — Kali Linux*
 
-*  [LinkedIn](https://www.linkedin.com/in/shreyansh-rastogi-9235641ab/)
-*  [X / Twitter](https://twitter.com/shreyansh_rast) 
-*  [TakeUForward Profile](https://takeuforward.org/plus/profile/Shreyansh_r)
+![Visitor Count](https://komarev.com/ghpvc/?username=shreyanshrastogi&color=blue&style=flat-square)
 
----
-
-### ⚡ Fun Fact
-
-When I’m not coding, I’m probably debugging my own brain before my code 
-
----
-
+</div>
