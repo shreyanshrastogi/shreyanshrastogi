@@ -129,9 +129,7 @@ Phase 5 — Job Applications     [░░░░░░░░░░] Target: 2027
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shreyansh-rastogi-9235641ab/)
 - 🐦 [X / Twitter](https://twitter.com/shreyansh_rast)
-- 🎯 [HackTheBox Academy](https://academy.hackthebox.com)
-- 💻 [TryHackMe](https://tryhackme.com)
-
+- 🎯 [HackTheBox Academy](https://profile.hackthebox.com/profile/019e6562-9668-71a8-bd1f-7bdd042e4a17)
 ---
 
 <div align="center">
